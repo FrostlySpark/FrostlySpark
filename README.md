@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @FrostlySpark
 - 👀 I’m interested in game development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning Java!
+- System.out.print("hello world!");
+- 
 - 💞️ I’m looking to collaborate on game projects!
 - 📫 How to reach me @Frostlyspark on lterally everything.
 
